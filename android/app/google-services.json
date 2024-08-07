@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "248208742369",
+    "project_id": "quic-order",
+    "storage_bucket": "quic-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248208742369:android:db18d416dbae301ff5e4a0",
+        "android_client_info": {
+          "package_name": "com.quicorder.quicorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248208742369-okuhc1iav1m6a2286vp80alfj7dihda1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSUCEyta5nl6tR7UGEEkisWphxKEN5tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248208742369-okuhc1iav1m6a2286vp80alfj7dihda1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248208742369-9poldn1cdtncen9irvrqiv9b7cicst8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quicorder.quicorder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
